@@ -1,4 +1,4 @@
-# ComputationalMathematics_semester4
+# computational-mathematics-semester-4
 Выполнение лабораторных работ по предмету "Вычислительная математика" на 4-ом семестре Университета ИТМО
 
 ## Статистика
